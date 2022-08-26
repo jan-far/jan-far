@@ -8,7 +8,7 @@
 - 💼 React Native (Contract) developer at [Digit Insurace](https://www.godigit.com/)
 - 😄 Pronouns: He/Him
 - 📚 Relentless learner and team player
-- 🐕 Cat lover
+- 🐈 Cat lover
 
 <!-- ### Highlighted Projects
 
