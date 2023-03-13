@@ -5,7 +5,7 @@
 - 📝 I’m a full stack developer
 - 👯 I’m looking to collaborate on open source
   <!-- - ⚡ Fun fact: The chances of a code working at the first run are the same as seeing a unicorn. -->
-- 💼 React Native (Contract) developer at [Digit Insurace](https://www.godigit.com/)
+<!-- - 💼 React Native (Contract) developer at [Digit Insurace](https://www.godigit.com/) -->
 - 😄 Pronouns: He/Him
 - 📚 Relentless learner and team player
 - 🐈 Cat lover
