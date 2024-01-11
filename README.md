@@ -35,12 +35,13 @@ Here are some ideas to get you started:
 
 ## Stats
 
-|
 <!-- [![Farouk's GitHub stats](https://github-readme-stats.vercel.app/api?username=jan-far&count_private=true&show_icons=true&theme=onedark)](https://github.com/jan-far?tab=repositories) |
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-far&layout=compact&theme=onedark)](https://github.com/jan-far?tab=repositories) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jan-far&layout=compact&theme=onedark)](https://github.com/jan-far?tab=repositories) 
 
+<!-- |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+-->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farouk-ligali//)
 [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:ligalifarouk@gmail.com)
 
